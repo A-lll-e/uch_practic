@@ -3,7 +3,7 @@
         "id": "f6f2187d.f17ca8",
         "type": "tab",
         "label": "Flow 1",
-        "disabled": true,
+        "disabled": false,
         "info": ""
     },
     {
@@ -36,7 +36,7 @@
         "once": false,
         "onceDelay": "5",
         "topic": "",
-        "payload": "32",
+        "payload": "35",
         "payloadType": "num",
         "x": 90,
         "y": 240,
